@@ -459,9 +459,6 @@ body {
   margin-left: 85px;
 }
 
-/* .item {
-  position: relative;
-} */
 .site-nav .item:not(:last-child) {
   margin-right: 50px;
 }
